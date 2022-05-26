@@ -1,0 +1,14 @@
+{
+	"name": "Gas",
+	"symbol": "GAS",
+	"image": "0.png",
+	"properties": {
+		"files": [{ "url": "0.png", "type": "image/png" }],
+		"creators": [
+			{
+				"address": "J1qCypzkcn2x9wMDZnyygGYgaAZERWWw1H1oWutiDsPV",
+				"share": 100
+			}
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"name": "Mad_King",
+	"symbol": "MAD",
+	"image": "2.png",
+	"properties": {
+		"files": [{ "url": "2.png", "type": "image/png" }],
+		"creators": [
+			{
+				"address": "J1qCypzkcn2x9wMDZnyygGYgaAZERWWw1H1oWutiDsPV",
+				"share": 100
+			}
+		]
+	}
+}

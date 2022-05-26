@@ -1,0 +1,19 @@
+{
+    "name": "Ivan_King",
+    "symbol": "IVAN",
+    "image": "1.png",
+    "properties": {
+        "files": [
+            {
+                "url": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "J1qCypzkcn2x9wMDZnyygGYgaAZERWWw1H1oWutiDsPV",
+                "share": 100
+            }
+        ]
+    }
+}
