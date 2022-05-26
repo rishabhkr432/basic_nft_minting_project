@@ -1,6 +1,6 @@
 # Solana NFT Drop Project (adapted from Buildspace)
 ### Welcome 👋
-This is a basic nft minting project build using candy machine v2 and metaplex.
+This is a basic nft minting project build using metaplex, candy machine v2.
 
 To get started with this project, clone this repo and follow these commands:
 
